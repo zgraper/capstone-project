@@ -1,11 +1,8 @@
----
 # **Phoneme-to-Text Capstone Project**
 ### ***Phoneme-to-Text Capstone Project***
 
 **Author:** Zane Graper
 **Models:** T5-small (ARPABET + IPA variants)
-
----
 
 ### ** Overview**
 
